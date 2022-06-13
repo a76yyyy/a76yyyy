@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Python API and Database
+- 🔭 I’m currently working on Golang, Python and Database
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about anything
 - 📫 How to reach me: www.a76yyyy.cn
