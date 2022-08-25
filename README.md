@@ -12,3 +12,10 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about anything
 - 📫 How to reach me: www.a76yyyy.cn
 - ⚡ Fun fact: Please follow me! --> [![](https://img.shields.io/github/followers/a76yyyy?style=social)](https://github.com/a76yyyy?tab=followers)
+
+
+
+<h2>🏆 Github Profile Trophy</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=a76yyyy&column=8&no-frame=true"/>
+</a>
