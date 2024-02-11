@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Golang, Python and Database
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on Python, Golang, Database and O&M development.
+- 🌱 I’m currently learning programing and AI
 - 💬 Ask me about anything
 - 📫 How to reach me: www.a76yyyy.cn
 - ⚡ Fun fact: Please follow me! --> [![](https://img.shields.io/github/followers/a76yyyy?style=social)](https://github.com/a76yyyy?tab=followers)
