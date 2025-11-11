@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Python, Golang, Database and O&M development.
+- 🔭 I’m currently working on Python, Rust, IT and O&M development.
 - 🌱 I’m currently learning programing and AI
 - 💬 Ask me about anything
 - 📫 How to reach me: www.a76yyyy.cn
